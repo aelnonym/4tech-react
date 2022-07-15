@@ -1,0 +1,132 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Comida"
+    },
+    {
+      "id": 2,
+      "name": "Lazer"
+    },
+    {
+      "id": 3,
+      "name": "Supermercado"
+    },
+    {
+      "id": 4,
+      "name": "Transporte"
+    },
+    {
+      "id": 5,
+      "name": "Jogos"
+    },
+    {
+      "id": 6,
+      "name": "Farmácia"
+    },
+    {
+      "id": 7,
+      "name": "Roupas"
+    }
+  ],
+  "expenses": [
+    {
+      "id": 1,
+      "description": "Compra no mercadinho da esquina",
+      "value": 22,
+      "category": "Supermercado",
+      "date": 1657895653282
+    },
+    {
+      "id": 2,
+      "date": 1651719600000,
+      "description": "Restaurante do Shopping",
+      "category": "Comida",
+      "value": 99.99
+    },
+    {
+      "id": 3,
+      "date": 1644116400000,
+      "description": "FIFA 2022",
+      "category": "Jogos",
+      "value": 120.5
+    },
+    {
+      "id": 4,
+      "date": 1651806000000,
+      "description": "Ingressos no cinema",
+      "category": "Lazer",
+      "value": 94.29
+    },
+    {
+      "id": 5,
+      "date": 1657076400000,
+      "description": "Passagem de ônibus público",
+      "category": "Transporte",
+      "value": 10
+    },
+    {
+      "description": "Produtos de Supermerlizo",
+      "value": 2000,
+      "category": "Supermercado",
+      "date": 1657888359244,
+      "id": 6
+    },
+    {
+      "description": "Batatinha",
+      "value": 2122,
+      "category": "Supermercado",
+      "date": 1657891168895,
+      "id": 7
+    },
+    {
+      "description": "Calça Jeans",
+      "value": 30,
+      "category": "Supermercado",
+      "date": 1657891509876,
+      "id": 8
+    },
+    {
+      "description": "asdasdasd",
+      "value": 4,
+      "category": "Supermercado",
+      "date": 1657891827043,
+      "id": 9
+    },
+    {
+      "description": "jacare",
+      "value": 3,
+      "category": "Farmácia",
+      "date": 1657894112571,
+      "id": 10
+    },
+    {
+      "description": "Ingressos no cinema",
+      "value": 94.292,
+      "category": "Lazer",
+      "date": 1657894284612,
+      "id": 11
+    },
+    {
+      "description": "jacare",
+      "value": 6,
+      "category": "Farmácia",
+      "date": 1657895487303,
+      "id": 12
+    },
+    {
+      "description": "chupega",
+      "value": 111,
+      "category": "Supermercado",
+      "date": 1657896863869,
+      "id": 13
+    },
+    {
+      "description": "Ata",
+      "value": 0.03,
+      "category": "Transporte",
+      "date": 1657896890173,
+      "id": 14
+    }
+  ]
+}
